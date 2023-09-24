@@ -1,3 +1,10 @@
+
+<p align="center">
+  <img src="https://firebasestorage.googleapis.com/v0/b/numichat.appspot.com/o/Perf_Lola%2BH.way%20banner.png?alt=media&token=8a0dac42-1f76-4754-ac9c-40a93ba02125" alt="Logo">
+</p>
+
+
+
 # NLP Bots Tests End-to-End
 
 This project arises from the need to stabilize a complete NLP chatbot stack. Those who have been working on such projects in the past year know that AIs like OpenAI and derivatives from Llama have undergone many changes, especially in the case of OpenAI. We have seen how GPT3, particularly the davinci-003 model, and GPT3.5 (the untamed one) have had their capabilities degraded.
