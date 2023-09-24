@@ -1,0 +1,8 @@
+thefuzz
+python-Levenshtein
+pytest
+telethon
+pytest_asyncio
+python-dotenv
+openai
+

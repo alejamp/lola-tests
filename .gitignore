@@ -1,0 +1,10 @@
+# ignore env file
+.env
+
+# pytest cache
+__pycache__/
+.cache/
+.pytest_cache/
+
+# ignore *.session files
+*.session
